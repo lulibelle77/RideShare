@@ -1,0 +1,11 @@
+body.has-navbar {
+	padding-top: 70px;
+}
+.loading {
+	background:transparent url(.../img/loading.gif) no-repeat centre;
+	padding:50px;
+}
+
+.loading * {
+	display:none;
+}
